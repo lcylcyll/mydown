@@ -1,0 +1,13 @@
+# Python虚拟环境
+venv/
+
+# Python缓存文件
+__pycache__/
+*.py[cod]
+
+# 开发环境配置
+.env
+.env.local
+
+# 日志文件
+*.log
